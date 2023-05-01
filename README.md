@@ -5,7 +5,7 @@ This repository contains an analysis of the 2019 World Happiness Report dataset.
 ## Dataset
 
 The dataset used in this project is the 2019 World Happiness Report, which is available at the following link:
-https://happiness-report.s3.amazonaws.com/2019/WHR20_Ch2_OnlineData.xls
+https://www.kaggle.com/datasets/unsdsn/world-happiness?select=2019.csv
 
 The 2019 dataset consists of 156 countries with the following columns:
 
